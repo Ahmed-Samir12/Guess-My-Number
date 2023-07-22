@@ -1,4 +1,5 @@
 'use strict';
+// simple game!
 let score = 20;
 let highScore = 0;
 let number = Math.trunc(Math.random() * 20) + 1;
