@@ -1,2 +1,3 @@
 # Guess-My-Number
-Simple guessing game with JS
+
+Simple guessing game with JS!
