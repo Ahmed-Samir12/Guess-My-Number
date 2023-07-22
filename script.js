@@ -1,5 +1,4 @@
 'use strict';
-// let message = document.querySelector('.message');
 let score = 20;
 let highScore = 0;
 let number = Math.trunc(Math.random() * 20) + 1;
